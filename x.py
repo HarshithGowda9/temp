@@ -8,3 +8,4 @@ print(x + y)
 z = 85
 
 print(x + z)
+print(y + z)
